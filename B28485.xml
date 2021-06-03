@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestants joy, or, The Relation of His Grace the Duke of Monmouth, his reception and congratulation in the city of London on the 29th of October, 1680 with an account of his high entertainment and the general satisfaction that all the loyal citizens coneeived [sic] at his honouring them with his company : as also how he was attended by many hundreds of people, with loud shouts and acclamations : with many other passages that happened during the splendid entertainment.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28485</idno><idno type="EEBO-CITATION">10599523</idno>
+  <idno type="VID">204738</idno>
+  <idno type="EEBO-PROQUEST">2240863283</idno>
+  
+            <idno type="STC">Wing P3850</idno>
+            <idno type="OCLC">10599523</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204738)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestants joy, or, The Relation of His Grace the Duke of Monmouth, his reception and congratulation in the city of London on the 29th of October, 1680 with an account of his high entertainment and the general satisfaction that all the loyal citizens coneeived [sic] at his honouring them with his company : as also how he was attended by many hundreds of people, with loud shouts and acclamations : with many other passages that happened during the splendid entertainment.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint on page 4.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:204738:1"/>
+            <pb n="1" facs="tcp:204738:1"/>
+            <head>
+               <hi>The Protestants Ioy,</hi> OR THE RELATION OF HIS GRACE THE Duke of Monmouth, His Reception and Congratulation IN THE CITY OF LONDON ON the 29th of <hi>October,</hi> 1680.</head>
+            <head type="sub">With an Account of his high entertainment, and the general satisfaction that all the loyal Citizens conceived at his Honouring them with his Company.</head>
+            <head type="sub">As also how he was attended by many hundreds of people, with loud Shouts and Acclamations, with many other passages, that happened, during the splendid entertainment.</head>
+            <p>ALthough Popish-Malice to the highest Design that Hell could infuse into the hearts of <hi>Romes</hi> Darling Emisa<g ref="char:EOLhyphen"/>ries did endeavour to Rase or overwhelm the Glories of this Noble and Loyal Peer, yet have all their Contrivances and Designs, fallen short of their intended A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ for as the
+<pb n="2" facs="tcp:204738:2"/>Palm still flouris<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h beneath oppressing Weights, and waves her Branches aloft, so a noble mind Conquers the greatest diffi<g ref="char:EOLhyphen"/>culties, and in Adversity shines brightest, for prosperity that bane of Virtue, like an Evening Mist overcasts the Sun of Ho<g ref="char:EOLhyphen"/>nour, and renders it a Beamless Globe divested of all his golden Rays, and oftentimes like Poyson swells that Soul to such a height of Ambition, that it bursts into a thousand Vices by ac<g ref="char:EOLhyphen"/>knowledging of no Equality or Limitary bound, but adversity like silent falling showers spread through each Demean: For as the Philosopher affirms, Mans cheifest knowledg as to Earthly things consists in knowing of himself.</p>
+            <p>But to let these and such like Emblems rest, and to proceed to our intended Narrative of his Grace the <hi>Duke of Monmouth</hi>'s reception into <hi>Englands</hi> great Metropolis, on the 29 of <hi>Ostober</hi> last, it being the day of its Tryumph, for the happy Enjoyment of its new Majestrate or Lieutenant under his most sacred Maje<g ref="char:EOLhyphen"/>sty (whom Heaven long preserve) The right Honourable the Lord Mayor, his Grace as it is reported by the Cities kind Invi<g ref="char:EOLhyphen"/>tation Accompanyed with several of the Nobility, between one and two of the Clock of the aforesaid day, came in his Coach (being saluted by most if not all that he passed by) into <hi>Cheap<g ref="char:EOLhyphen"/>side</hi> the principle Street of this famous City, where a lighting he went up into a <hi>Ballconey</hi> near to <hi>Bow</hi>-Church to take a Prospect of the splendid Magnificence; where no sooner he appeared, but some thousands flocked as near to the place as it was possible for them to get, some standing with their Hats off, whilst others gave loud Shouts, as Signals of Joy, crying, God bless his Ma<g ref="char:EOLhyphen"/>jesty and the Duke of <hi>Monmouth,</hi> tossing up their Hats and Caps, giving such loud Shouts as made the Vaults send back their Ec<g ref="char:EOLhyphen"/>choes in Rebounds of Joy. In this may the Papists plainly di<g ref="char:EOLhyphen"/>scerne how generally the People conceive a dislike and detesta<g ref="char:EOLhyphen"/>tion of their false Absurditie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and unjust practises. About two of the Clock several of the Companies Landed, and took their places according to the usual custom. About three his Lordship, ac<g ref="char:EOLhyphen"/>companied with the Right Worshiplul Sir <hi>Rebert Clayton</hi> late Lord Mayor, and his Brethren the Aldermen, with the Sheriffs, and others of the Magistracy of this renowned City, Land<g ref="char:EOLhyphen"/>ed at <hi>Black-Friers</hi>-Stairs, being there saluted with three Vollies of Shot, by the Noble Company of Artillary; who waited up<g ref="char:EOLhyphen"/>on his Lordship in Arms, besides several Broad-sides from the
+<pb n="3" facs="tcp:204738:2"/>Pleasure-Boats that attended on the River of Thames, and ta<g ref="char:EOLhyphen"/>king Horse, as the usual manner is, passed on to <hi>Guild Hall.</hi> Ma<g ref="char:EOLhyphen"/>ny learned Speeches being made to his Lordship as he passed, from the Pageants, and most especially from that of the <hi>Merchant-Tay<g ref="char:EOLhyphen"/>lors,</hi> of which Company his Lordship is Free. After they were passed by, his Grace descended, and accompanied with many of the Nobility, went to <hi>Guild-Hall,</hi> being followed by a great multitude, with loud shouts and acclamations, where being arrived, he was reccived with that Respect that became his Qua<g ref="char:EOLhyphen"/>lity.</p>
+            <p>In the great Ball the sumptious Table being spread, besides his Grace, the Judges were present. The entertainment was mag<g ref="char:EOLhyphen"/>nificent, according to the Grandure and Greatness of the City, and personages to participate the same; there being no Cost spared to make it splendid for the Entertainment of such noble Guest. After Dinner a Health went round to his Majesty, with all due Respect and awful Reverence, the Musick playing most melodiously the while; afterwards to several Peers, and to the good success of this Assembled Parliament.</p>
+            <p>Long time continued the Glorions Banquet and Congratula<g ref="char:EOLhyphen"/>tory satisfaction received on all hands, about ten of the Clock at night his Grace took his Leave, and accompanied with several persons of Quality, returned home, but although it was so late, several people having noticc of his Return, gave the Allarm that the Duke was coming, whereupon a multitude <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ft their Habitations to take a view of him; that the streets were throng<g ref="char:EOLhyphen"/>ed with Spectators, the Crowd still gathering greater, surrounded his Coach, till at last there were a great number of Links Flam<g ref="char:EOLhyphen"/>beaus and Torches lighted and about a thovsand People hollow<g ref="char:EOLhyphen"/>ing and Shouting so loud that they made the Streets Ring. Thus they Guarded him through the City, and would not return, though his Grace in modesty desired them. At <hi>Temple-Bar</hi> the greatest part lest him, but many were so desirous of his Compa<g ref="char:EOLhyphen"/>ny as to follow him to his own Lodging.</p>
+            <p>Thus may the Romanists behold how Heaven blasts their ut<g ref="char:EOLhyphen"/>most Rage, and that it is time for them to leave off their Ploting since all true and Loyal Subjects of which the greatest part of the Nation are such Antipodes to their Designs.</p>
+            <pb n="4" facs="tcp:204738:3"/>
+            <p>And though perhaps their Reports might cause his sacred Majesties displeascre to be kindled a<g ref="char:EOLhyphen"/>gainst him for a season, yet his submission and fil<g ref="char:EOLhyphen"/>lial obedience may in time move his Royal Father to pity and compassion; nor can we doubt it, see<g ref="char:EOLhyphen"/>ing he is all inclinable to Mercy and forgiveness; those Sacred Virtues which the Almighty him<g ref="char:EOLhyphen"/>self prefers before the Attributes of his unbound<g ref="char:EOLhyphen"/>ed Power. That it may so happen, and that he may be still a Terrour (as he heretofore has been) to his King and Countries Foes, let all true Loyal Subjects pray, to him that is the Disposer of all hearts to grant.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>D. Mallet</hi> 1680.</p>
+            <pb facs="tcp:204738:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
